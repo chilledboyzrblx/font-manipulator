@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic:wght@700&display=swap');
+
+body{
+    text-align: center;
+}
+
+#heading{
+    width:100%;
+    box-shadow:5px 5px 5px blue;
+    padding-bottom:5px;
+    font-family: 'BIZ UDGothic', sans-serif;
+}
+#heading h1{
+    font-size:35px;
+}
+#heading p{
+    font-size:20px;
+    color:blue;
+}
+#heading span{
+    font-size:25px;
+    color:white;
+}
