@@ -27,4 +27,5 @@ canvas, video{
     border:5px solid white;
     border-radius:10px;
     box-shadow:5px 5px 5px blue;
+    margin-bottom:200px;
 }
